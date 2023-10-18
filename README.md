@@ -1,7 +1,6 @@
 # DSA_TEST1-M23B38-008-
 
 ##EXPLANATION FOR NUMBER 2
-Sure, here's an explanation of each step in a way that anyone can understand:
 
 Step 1: Creating two separate lists of names
 We are creating two separate lists of names, one for Catholic martyrs and one for Anglican martyrs. These lists will contain the names of the martyrs that we want to check if they are in both lists.
